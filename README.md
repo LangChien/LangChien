@@ -2,7 +2,7 @@
 
 ###
 
-Hi 👋 My name is Lăng Tiến
+My name is Lăng Tiến
 ==========================
 
 Fullstack developer
@@ -14,8 +14,9 @@ Fullstack developer
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+* ✉️  You can contact me at [langtienk4@gmail.com](mailto:langtienk4@gmail.com)
+* 🧠  I'm learning HaNoi University of science and technology
 ###
 
 <h2 align="left">I code with</h2>
